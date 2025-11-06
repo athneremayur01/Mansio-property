@@ -90,13 +90,8 @@ We welcome contributions from the community! Please follow these steps:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-## Contact
-For any questions or feedback, please contact:
-- Email: `Shivam@mansio.ai`
-- GitHub: [@AmanSagar0607](https://github.com/AmanSagar0607)
 
 ---
 # property-feed
+
 # Mansio-property
